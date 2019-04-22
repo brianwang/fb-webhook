@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "description": "facebook webhook sample",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "fb-webhook",
+  "scripts": {
+  },
+  "stack": "cedar-14"
+}
